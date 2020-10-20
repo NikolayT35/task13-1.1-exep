@@ -1,6 +1,10 @@
-package ru.netology.domain;
+package ru.netology.repositiry;
 
 import org.junit.jupiter.api.Test;
+import ru.netology.product.Book;
+import ru.netology.domain.NotFoundException;
+import ru.netology.product.Product;
+import ru.netology.product.SmartPhone;
 import ru.netology.repository.ProductRepository;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,4 +1,4 @@
-package ru.netology.domain;
+package ru.netology.product;
 
 import java.util.Objects;
 
